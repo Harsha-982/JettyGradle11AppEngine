@@ -1,0 +1,2 @@
+runtime: java11
+entrypoint : java -cp JettyGradle11AppEngine.jar MainServer
